@@ -13,4 +13,6 @@ while linha <= 10: #mantém a mesma linha até o valor chegar a 10
 #primeiro linha depois coluna
 #tralalalalala
 #bilu teteia verão ruim 
+##bilu teteia
+
 
