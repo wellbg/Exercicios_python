@@ -9,3 +9,4 @@ while linha <= 10: #mantém a mesma linha até o valor chegar a 10
     linha += 1 #contador da linha
     print() #quebra a linha e continua na de baixo
     coluna = 1
+#shalalalalala evy
