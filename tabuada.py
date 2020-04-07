@@ -12,5 +12,5 @@ while linha <= 10: #mantém a mesma linha até o valor chegar a 10
 #shalalalalala evy
 #primeiro linha depois coluna
 #tralalalalala
-#blablablabla CHARAN CHARAN
+##bilu teteia
 
