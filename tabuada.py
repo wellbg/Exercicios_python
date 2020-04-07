@@ -10,3 +10,4 @@ while linha <= 10: #mantém a mesma linha até o valor chegar a 10
     print() #quebra a linha e continua na de baixo
     coluna = 1
 #primeiro linha depois coluna
+#blablablabla
