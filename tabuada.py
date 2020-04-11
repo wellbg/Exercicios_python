@@ -16,3 +16,5 @@ while linha <= 10: #mantém a mesma linha até o valor chegar a 10
 ##bilu teteia
 ## isso é para ferrar o commit do well
 #o que será que ela fez?
+# nova linha criada pela Evelyn
+
